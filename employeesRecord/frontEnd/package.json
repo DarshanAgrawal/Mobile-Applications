@@ -22,7 +22,7 @@
     "expo-linear-gradient": "~8.1.0",
     "expo-status-bar": "^1.0.0",
     "internet-available": "^1.0.0",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "logkitty": "^0.7.1",
     "mem": "^6.1.0",
     "react": "~16.9.0",
